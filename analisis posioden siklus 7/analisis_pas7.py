@@ -1,1 +1,3 @@
 print("INI ADALAH ANALISIS POSEIDON 7")
+
+2+3 == 8
